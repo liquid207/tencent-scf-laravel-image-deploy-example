@@ -1,0 +1,10 @@
+.git
+.gitlab
+.gitlab-ci.yml
+tests
+deploy
+Dockerfile
+local.Dockerfile
+helmfile.yaml
+phpunit.xml
+vendor
